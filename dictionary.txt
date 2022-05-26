@@ -1,24 +1,24 @@
 Raesfeld
-Flughafen
+Flughafen - airport
 Berlin
 Bratwurst
-Hauptstrasse
-Brot
-Klimaanlage
+Hauptstrasse - main road
+Brot - bread
+Klimaanlage - air conditioning
 Rammstein
 Porsche
 BMW
-Biergarten
+Biergarten - beer garden
 Ratskeller
 Dirndel
-Lederhose
-Schloss
-wettbewerbsfaehig
-Mehlhase
-Gebaeck
-Baeckerei
-Hund
+Lederhose - leather pants
+Schloss - lock
+wettbewerbsfaehig - competitive
+Mehlhase - flour bunny
+Gebaeck - pastries
+Baeckerei - bakery
+Hund - dog
 Doener
-Apfelkuchen
-Schloss
+Apfelkuchen - apple cake
+Schloss - lock
 Eltz
